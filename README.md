@@ -7,7 +7,8 @@
 
 ## Python
 
-## CSS
+## HTML&CSS
+- [https://www.youtube.com/@OnlineTutorialsYT/videos](https://www.youtube.com/@OnlineTutorialsYT/videos)<br>
 
 ## DevOps
 
