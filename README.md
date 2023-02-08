@@ -1,2 +1,11 @@
-# Youtube-collection-for-learners
-List of youtube channels for Beginners
+# List of youtube channels for Beginners
+
+## Javascript
+
+## ReactJS
+
+## Python
+
+## CSS
+
+## DevOps
