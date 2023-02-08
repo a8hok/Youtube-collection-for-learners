@@ -6,6 +6,7 @@
 ## ReactJS
 
 ## Python
+- [https://www.youtube.com/@BroCodez/videos](https://www.youtube.com/@BroCodez/videos)<br>
 
 ## HTML&CSS
 - [https://www.youtube.com/@OnlineTutorialsYT/videos](https://www.youtube.com/@OnlineTutorialsYT/videos)<br>
