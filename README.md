@@ -1,6 +1,7 @@
 # List of youtube channels for Beginners
 
 ## Javascript
+- [https://www.youtube.com/c/DevEd/videos](https://www.youtube.com/c/DevEd/videos)<br>
 
 ## ReactJS
 
