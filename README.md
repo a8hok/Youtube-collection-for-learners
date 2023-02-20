@@ -15,8 +15,9 @@
 
 ## DevOps
 
-## General Coding
+## General Videos
 - [https://www.youtube.com/@codeSTACKr/videos](https://www.youtube.com/@codeSTACKr/videos)<br>
+- [https://www.youtube.com/@dailydotdev/videos](https://www.youtube.com/@dailydotdev/videos)<br>
 
 ## Interview Preparation
 - [https://www.youtube.com/@js_cafe/videos](https://www.youtube.com/@js_cafe/videos)<br>
