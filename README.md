@@ -19,6 +19,7 @@
 - [https://www.youtube.com/@codeSTACKr/videos](https://www.youtube.com/@codeSTACKr/videos)<br>
 - [https://www.youtube.com/@dailydotdev/videos](https://www.youtube.com/@dailydotdev/videos)<br>
 - [https://www.youtube.com/@DecodedFrontend/videos](https://www.youtube.com/@DecodedFrontend/videos)<br>
+- [https://dev.to/rahxuls/21-best-youtube-channels-for-designers-in-2023-1m47](https://dev.to/rahxuls/21-best-youtube-channels-for-designers-in-2023-1m47)<br>
 
 ## Interview Preparation
 - [https://www.youtube.com/@js_cafe/videos](https://www.youtube.com/@js_cafe/videos)<br>
