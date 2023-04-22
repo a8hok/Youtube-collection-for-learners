@@ -6,6 +6,7 @@
 
 ## ReactJS
 - [https://www.youtube.com/watch?v=ZAcASkz7pzE&list=PLynWqC6VC9KNS1QoKBHJdg3l-wSQ_NGC3](https://www.youtube.com/watch?v=ZAcASkz7pzE&list=PLynWqC6VC9KNS1QoKBHJdg3l-wSQ_NGC3)<br>
+- [https://www.freecodecamp.org/news/how-to-create-a-linkedin-clone/](https://www.freecodecamp.org/news/how-to-create-a-linkedin-clone/)<br>
 
 ## Python
 - [https://www.youtube.com/@BroCodez/videos](https://www.youtube.com/@BroCodez/videos)<br>
