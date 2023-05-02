@@ -4,6 +4,7 @@
 - [https://www.youtube.com/c/DevEd/videos](https://www.youtube.com/c/DevEd/videos)<br>
 - [https://www.youtube.com/@js_cafe](https://www.youtube.com/@js_cafe)<br>
 - [https://www.youtube.com/@CodewithSloba/videos](https://www.youtube.com/@CodewithSloba/videos)<br>
+- [https://www.youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd)<br>
 
 ## ReactJS
 - [https://www.youtube.com/watch?v=ZAcASkz7pzE&list=PLynWqC6VC9KNS1QoKBHJdg3l-wSQ_NGC3](https://www.youtube.com/watch?v=ZAcASkz7pzE&list=PLynWqC6VC9KNS1QoKBHJdg3l-wSQ_NGC3)<br>
