@@ -19,6 +19,9 @@
 - [https://www.youtube.com/@BroCodez/videos](https://www.youtube.com/@BroCodez/videos)<br>
 - [https://www.youtube.com/@CodeWithHarry/videos](https://www.youtube.com/@CodeWithHarry/videos)<br>
 
+## MERN
+- [https://www.youtube.com/watch?v=0cPCMIuDk2I](https://www.youtube.com/watch?v=0cPCMIuDk2I)<br>
+
 ## HTML&CSS
 - [https://www.youtube.com/@OnlineTutorialsYT/videos](https://www.youtube.com/@OnlineTutorialsYT/videos)<br>
 - [https://www.youtube.com/@TheCoderCoder/videos](https://www.youtube.com/@TheCoderCoder/videos)<br>
