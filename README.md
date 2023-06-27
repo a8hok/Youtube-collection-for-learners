@@ -14,6 +14,7 @@
 
 ## NodeJS
 - [https://www.youtube.com/watch?v=a6905btNVoA](https://www.youtube.com/watch?v=a6905btNVoA)<br>
+- [https://www.youtube.com/watch?v=rltfdjcXjmk](https://www.youtube.com/watch?v=rltfdjcXjmk)<br>
 
 ## Python
 - [https://www.youtube.com/@BroCodez/videos](https://www.youtube.com/@BroCodez/videos)<br>
